@@ -46,6 +46,6 @@ It currently supports 2 commands:
 
 Open to suggestions and enhancements
 
-# License
+## License
 
 See [LICENSE](LICENSE)
